@@ -1,0 +1,15 @@
+{
+  "name": "test-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodelint app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodelint": "",
+    "express": ""
+  }
+}
